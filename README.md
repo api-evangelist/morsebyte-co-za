@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MorseByte is an enterprise technology services company based in South Africa, offering AI-driven solutions, custom software development, cloud architecture, and robotic process automation for SMEs. Their services include AI concierge agents, LLM integration, web and native app development, and secure, scalable infrastructure, aiming to streamline complex operational challenges and accelerate business growth.
+MorseByte is a South Africa‑based technology services company helping small and medium‑sized businesses design, automate, secure, and scale their digital operations. It offers AI automation, software delivery, cloud architecture, DevOps, cybersecurity, and technical direction services, targeting SMEs seeking enterprise‑grade solutions.
 
-**Areas:** Company · AI · Enterprise · Software · SouthAfrica
+**Areas:** Technology Services · AI Automation · Cloud Architecture · DevOps · Cybersecurity
 
 ## MorseByte on APIs.io
 
@@ -110,13 +110,14 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://morsebyte.co.za/)
+- [API reference](https://api.morsebyte.co.za/openapi.json)
 - [Blog](https://morsebyte.co.za/blog.html)
 - [Terms of service](https://morsebyte.co.za/terms.html)
 - [Privacy policy](https://morsebyte.co.za/privacy.html)
 
 ## API Evangelist rating
 
-**Kin Score 28.0** — thin · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 30.8** — thin · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
@@ -124,10 +125,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 40.4 |
 | Contract governance | 65.5 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 2.4 |
+| Developer ergonomics | 16.0 |
 | Access clarity | 17.0 |
 
-**Agent readiness 28.3** — agent-aware
+**Agent readiness 31.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -141,7 +142,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | verified |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -154,7 +155,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/morsebyte-co-za/](https://apis.io/providers/morsebyte-co-za/).
 
